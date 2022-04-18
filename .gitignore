@@ -1,0 +1,22 @@
+# cache files
+__pycache__/
+
+# log files
+*.log
+
+# model files
+*.pth
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+.ipynb_aml_checkpoints/
+
+# Azure ML temp files
+*.amltmp
+*.amltemp
+
+# Misc
+*.lock
+*.tmp
+.amlignore
